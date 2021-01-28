@@ -1,9 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Главная</router-link> |
-      <router-link to="/about">О проекте</router-link> |
-      <router-link to="/contact">Контакты</router-link>
+      <router-link to="/">On</router-link> |
+      <router-link to="/about">Off</router-link> 
     </div>
     <router-view/>
   </div>

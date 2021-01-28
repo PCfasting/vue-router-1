@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Добро пожаловать на лучший сайт</h1>
+    <img src="../assets/on.jpg">
   </div>
 </template>
 
